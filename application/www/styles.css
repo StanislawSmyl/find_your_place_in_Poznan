@@ -1,0 +1,40 @@
+label[for=income] {
+	width: 100%;
+}
+.fa-home {
+	font-size: 600% !important;
+}
+label[for=buildings] {
+	background-color: lightblue; top: 16px;left: 35px;
+}
+h3 {
+	margin-top: 5px;
+}
+#building {
+	padding: 7px;height: 80%;
+}
+button[type = submit] {
+	background-color: #222222;
+}
+.noUi-connect {
+	background: #222222;
+}
+.control-label {
+	width: 100%;
+}
+#earnings, #age {
+	width: 92%;
+}
+div.material-switch {
+	font-size: 70%;
+	margin-top: 4%;
+}
+.btn-default {
+	background-color: white;
+}
+hr {
+	margin-top: 1px; 
+	margin-bottom: 1px; 
+	border-top: 1px solid darkgrey; 
+	border-bottom: 2px solid white;
+}

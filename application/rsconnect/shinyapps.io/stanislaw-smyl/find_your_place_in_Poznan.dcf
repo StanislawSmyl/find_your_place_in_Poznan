@@ -1,0 +1,13 @@
+name: find_your_place_in_Poznan
+title: find_your_place_in_Poznan
+username:
+account: stanislaw-smyl
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 385371
+bundleId: 1492950
+url: https://stanislaw-smyl.shinyapps.io/find_your_place_in_Poznan/
+when: 1532201734.804
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: fontawesome-free-5.0.13

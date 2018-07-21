@@ -9,7 +9,7 @@ shinyServer(function(input, output) {
     
     clean <- reactive({
         clean <- POST(url = "https://maps.googleapis.com/maps/api/geocode/json?", 
-                      query = list(key = "AIzaSyAyLBYr_0AKKf5GWR6-mWEhrsMkKxOxCkQ", 
+                      query = list(key = "your_key", 
                                    address = paste(input$address, input$building, "Poznan",
                                               sep = " ")))
         clean <- content(clean, as = "parse")
